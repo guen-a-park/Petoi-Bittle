@@ -1,4 +1,4 @@
-# OpenCat
+# Petoi Bittle🐩
 
 OpenCat is the open-source Arduino and Raspberry Pi-based robotic pet framework developed by Petoi, the maker of futuristic programmable robotic pets.
 
